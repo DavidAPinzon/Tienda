@@ -1,0 +1,3 @@
+interface Mostrable {
+    void mostrarInformacion();
+}
